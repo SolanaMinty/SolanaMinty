@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us:
 💎 Solana Minty simplifies minting and managing digital assets on Solana. Our user-friendly platform empowers both experienced developers and newcomers to easily create and manage Tokens, NFT's and more. 💎
 
 
